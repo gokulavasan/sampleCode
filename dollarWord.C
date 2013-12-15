@@ -67,10 +67,6 @@ struct Node
   }
 };
 
-int centValue (char c) {
-  return ((c - 'a') + 1);
-}
-
 
 class Trie
 {
